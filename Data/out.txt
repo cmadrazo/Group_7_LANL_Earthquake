@@ -1,0 +1,180 @@
+Start Program
+Done making arrays
+
+Start KNN
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+...
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+[[1, 5.066587442321551], [5, 3.847156937838705], [10, 3.608748520969683], [20, 3.451007927472232], [30, 3.4373211591501396], [40, 3.436955233084578], [50, 3.454974356541806], [60, 3.4476003271615174], [70, 3.4431189311647166], [80, 3.4296991433506054], [90, 3.429485064577802], [100, 3.423882449245681], [150, 3.4191455674367752], [200, 3.4155745794209986], [250, 3.410946492129943], [300, 3.4141277020731233], [400, 3.3986749683840043], [500, 3.403604097279311]]
+
+Start LR
+[[0, 3.4185259678631255], [1, 3.4185259678631255], [2, 3.4185259678631255], [3, 3.4185259678631255], [4, 3.4185259678631255]]
+
+Start SVR
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+...
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+[[1e-06, 0.001, 3.4122948769261265], [1e-06, 0.01, 3.407826286124753], [1e-06, 0.1, 3.3940284426020297], [1e-06, 1, 3.430444360404992], [1e-06, 10, 3.4853255722857956], [1e-06, 20, 3.515876776722751], [1e-06, 50, 3.5179638705892433], [1e-06, 100, 3.5571442711678674], [1e-06, 1000, 3.5879949809871565], [1e-05, 0.001, 3.4122948769261265], [1e-05, 0.01, 3.407826286124753], [1e-05, 0.1, 3.3940281409950592], [1e-05, 1, 3.430429778856267], [1e-05, 10, 3.485325998792862], [1e-05, 20, 3.5158560484512886], [1e-05, 50, 3.517999581249665], [1e-05, 100, 3.5571373994815123], [1e-05, 1000, 3.5875656999344305], [0.0001, 0.001, 3.4122948769261265], [0.0001, 0.01, 3.407826286124753], [0.0001, 0.1, 3.3940268875472914], [0.0001, 1, 3.4304327669127175], [0.0001, 10, 3.4853788107523607], [0.0001, 20, 3.5158581523145744], [0.0001, 50, 3.5180477250898323], [0.0001, 100, 3.5571691444091695], [0.0001, 1000, 3.587914744346863], [0.001, 0.001, 3.4122948769261265], [0.001, 0.01, 3.4078828384334217], [0.001, 0.1, 3.394027577150371], [0.001, 1, 3.430378060244936], [0.001, 10, 3.4851643381108515], [0.001, 20, 3.5155676052242857], [0.001, 50, 3.518379365872859], [0.001, 100, 3.5573018036608928], [0.001, 1000, 3.587256348486097], [0.01, 0.001, 3.4122948769261265], [0.01, 0.01, 3.4077606150076303], [0.01, 0.1, 3.3935992851441656], [0.01, 1, 3.429766986368518], [0.01, 10, 3.4835338375951896], [0.01, 20, 3.511860527398871], [0.01, 50, 3.522160755131907], [0.01, 100, 3.558083333241827], [0.01, 1000, 3.5855529611015253], [0.1, 0.001, 3.412699711499336], [0.1, 0.01, 3.4088434164398764], [0.1, 0.1, 3.395363650492496], [0.1, 1, 3.4321638617865347], [0.1, 10, 3.4779450448908187], [0.1, 20, 3.5004783917943163], [0.1, 50, 3.5294562690807774], [0.1, 100, 3.555642268151286], [0.1, 1000, 3.5922120963747677], [0.2, 0.001, 3.412134230312093], [0.2, 0.01, 3.4077591564900915], [0.2, 0.1, 3.3958820627604243], [0.2, 1, 3.433430534918071], [0.2, 10, 3.47774284832867], [0.2, 20, 3.495065675564321], [0.2, 50, 3.5229278463720957], [0.2, 100, 3.540126921746458], [0.2, 1000, 3.6097794002806807], [0.3, 0.001, 3.41229471829297], [0.3, 0.01, 3.4069536352664462], [0.3, 0.1, 3.3981336751499467], [0.3, 1, 3.4364023649672064], [0.3, 10, 3.4713817956084267], [0.3, 20, 3.4891743264758683], [0.3, 50, 3.5260550184244823], [0.3, 100, 3.5328049513626736], [0.3, 1000, 3.633798037202506], [0.4, 0.001, 3.41184944848629], [0.4, 0.01, 3.406427966813393], [0.4, 0.1, 3.3990774813232973], [0.4, 1, 3.438539303034665], [0.4, 10, 3.4687048879153406], [0.4, 20, 3.482027339204935], [0.4, 50, 3.5072250330046497], [0.4, 100, 3.51665807559753], [0.4, 1000, 3.6641498604028206], [0.5, 0.001, 3.4118104117979446], [0.5, 0.01, 3.40686122487348], [0.5, 0.1, 3.39638042211627], [0.5, 1, 3.4400257163253247], [0.5, 10, 3.4581436557208183], [0.5, 20, 3.4733890966592225], [0.5, 50, 3.4924788338777173], [0.5, 100, 3.4995105137994638], [0.5, 1000, 3.66126161948166], [1, 0.001, 3.4109161141265827], [1, 0.01, 3.404806037808112], [1, 0.1, 3.387905896734219], [1, 1, 3.4081531587503773], [1, 10, 3.4445155226493167], [1, 20, 3.4459207560986447], [1, 50, 3.436101526150913], [1, 100, 3.446909458696238], [1, 1000, 3.5877888903049846]]
+best score sum method:  3.387905896734219
+
+Start KNN
+[[1, 4.6869739201601455], [5, 3.6412628312531137], [10, 3.431063699132476], [20, 3.3843129174517674], [30, 3.4113418428437376], [40, 3.417815088069661], [50, 3.420568693072618], [60, 3.441590706480143], [70, 3.436112914267258], [80, 3.4497647148766775], [90, 3.4455271651561175], [100, 3.4354551300320275], [150, 3.432513891524737], [200, 3.440196987390709], [250, 3.4555408837358192], [300, 3.4503436761815043], [400, 3.460275052926799], [500, 3.456793476049089]]
+
+Start LR
+[[0, 3.4185259678631246], [1, 3.4185259678631246], [2, 3.4185259678631246], [3, 3.4185259678631246], [4, 3.4185259678631246]]
+
+Start SVR
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+...
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+[[1e-06, 0.001, 3.4122948769261265], [1e-06, 0.01, 3.407826286124753], [1e-06, 0.1, 3.3940284426020297], [1e-06, 1, 3.430444360404992], [1e-06, 10, 3.4853255722857885], [1e-06, 20, 3.51587677672274], [1e-06, 50, 3.517963870589222], [1e-06, 100, 3.5571442711678225], [1e-06, 1000, 3.5879949809868203], [1e-05, 0.001, 3.4122948769261265], [1e-05, 0.01, 3.407826286124753], [1e-05, 0.1, 3.3940281409950592], [1e-05, 1, 3.430429778856267], [1e-05, 10, 3.4853259987928538], [1e-05, 20, 3.5158560484512797], [1e-05, 50, 3.517999581249652], [1e-05, 100, 3.55713739948147], [1e-05, 1000, 3.5875656999342844], [0.0001, 0.001, 3.4122948769261265], [0.0001, 0.01, 3.407826286124753], [0.0001, 0.1, 3.394026887547292], [0.0001, 1, 3.4304327669127175], [0.0001, 10, 3.4853788107523513], [0.0001, 20, 3.5158581523145647], [0.0001, 50, 3.5180477250898012], [0.0001, 100, 3.5571691444091553], [0.0001, 1000, 3.5879147443466244], [0.001, 0.001, 3.4122948769261265], [0.001, 0.01, 3.4078828384334217], [0.001, 0.1, 3.3940275771503705], [0.001, 1, 3.430378060244936], [0.001, 10, 3.4851643381108417], [0.001, 20, 3.5155676052242733], [0.001, 50, 3.5183793658728417], [0.001, 100, 3.5573018036608626], [0.001, 1000, 3.5872563484858935], [0.01, 0.001, 3.4122948769261265], [0.01, 0.01, 3.4077606150076303], [0.01, 0.1, 3.393599285144166], [0.01, 1, 3.429766986368518], [0.01, 10, 3.4835338375951803], [0.01, 20, 3.5118605273988646], [0.01, 50, 3.5221607551318894], [0.01, 100, 3.5580833332417545], [0.01, 1000, 3.585552961101264], [0.1, 0.001, 3.412699711499336], [0.1, 0.01, 3.4088434164398764], [0.1, 0.1, 3.3953636504924964], [0.1, 1, 3.4321638617865347], [0.1, 10, 3.477945044890812], [0.1, 20, 3.500478391794306], [0.1, 50, 3.529456269080772], [0.1, 100, 3.55564226815125], [0.1, 1000, 3.5922120963745328], [0.2, 0.001, 3.412134230312093], [0.2, 0.01, 3.4077591564900915], [0.2, 0.1, 3.3958820627604243], [0.2, 1, 3.433430534918071], [0.2, 10, 3.4777428483286714], [0.2, 20, 3.4950656755643035], [0.2, 50, 3.5229278463720815], [0.2, 100, 3.540126921746459], [0.2, 1000, 3.609779400280329], [0.3, 0.001, 3.41229471829297], [0.3, 0.01, 3.4069536352664462], [0.3, 0.1, 3.398133675149946], [0.3, 1, 3.436402364967207], [0.3, 10, 3.4713817956084227], [0.3, 20, 3.4891743264758657], [0.3, 50, 3.526055018424456], [0.3, 100, 3.5328049513626576], [0.3, 1000, 3.633798037202916], [0.4, 0.001, 3.41184944848629], [0.4, 0.01, 3.4064279668133928], [0.4, 0.1, 3.399077481323297], [0.4, 1, 3.438539303034665], [0.4, 10, 3.4687048879153397], [0.4, 20, 3.482027339204935], [0.4, 50, 3.5072250330046533], [0.4, 100, 3.5166580755975216], [0.4, 1000, 3.6641498604027847], [0.5, 0.001, 3.4118104117979446], [0.5, 0.01, 3.40686122487348], [0.5, 0.1, 3.3963804221162706], [0.5, 1, 3.4400257163253243], [0.5, 10, 3.45814365572081], [0.5, 20, 3.473389096659224], [0.5, 50, 3.4924788338777266], [0.5, 100, 3.499510513799486], [0.5, 1000, 3.661261619481766], [1, 0.001, 3.4109161141265827], [1, 0.01, 3.404806037808112], [1, 0.1, 3.387905896734219], [1, 1, 3.4081531587503773], [1, 10, 3.444515522649315], [1, 20, 3.4459207560986442], [1, 50, 3.4361015261508894], [1, 100, 3.4469094586961915], [1, 1000, 3.587788890304312]]
+best score avg method:  3.3843129174517674
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+[[100, 5.2514886325315855], [150, 5.043274094288737], [200, 4.784183077315011], [250, 4.628854538092079], [300, 4.4354066128483085], [400, 4.054459686881869], [500, 3.8222710204387775]]
+
+Start LR
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+[[0, 3.78313653388658], [1, 3.78313653388658], [2, 3.78313653388658], [3, 3.78313653388658], [4, 3.78313653388658]]
+
+Start SVR
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+...
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:1300: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+[[1e-06, 0.001, 3.403873818707314], [1e-06, 1, 2.736162319761698], [1e-06, 10, 2.743477221392635], [1e-06, 20, 2.735655637061965], [1e-06, 100, 2.734138266696621], [1e-05, 0.001, 3.403873818707314], [1e-05, 1, 2.7361621543634955], [1e-05, 10, 2.7434841454394765], [1e-05, 20, 2.7356631255511443], [1e-05, 100, 2.7341366913907716], [0.01, 0.001, 3.403945402632655], [0.01, 1, 2.7359967024578644], [0.01, 10, 2.7432798453861946], [0.01, 20, 2.735404641658626], [0.01, 100, 2.7338741909166875], [0.1, 0.001, 3.403399940040672], [0.1, 1, 2.733959993685691], [0.1, 10, 2.741094798518443], [0.1, 20, 2.7328027752866864], [0.1, 100, 2.731409220797715], [1, 0.001, 3.402836391486078], [1, 1, 2.713774396043096], [1, 10, 2.7188882238429715], [1, 20, 2.7102151149353495], [1, 100, 2.709960559390872]]
+best score 150kdim method:  2.709960559390872
+/Users/imac/Library/Python/3.9/lib/python/site-packages/sklearn/metrics/_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(

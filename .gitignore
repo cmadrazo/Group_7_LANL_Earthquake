@@ -154,3 +154,4 @@ cython_debug/
 Data/.DS_Store
 Analysis/rand_mdim_sample_100_X
 Data/rand_mdim_sample_100_X
+*.mp4
